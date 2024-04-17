@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <PaginaInicial />
     </v-main>
   </v-app>
 </template>
